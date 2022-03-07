@@ -1,1 +1,1 @@
-# PythonNotes ile Python öğrenme sürecini kısa tutmak adına önemli yerlerden notlar almaya çalıştım.En kısa sürede güncellenecektir.
+Python öğrenme sürecini kısa tutmak adına önemli yerlerden notlar çıkarmaya çalıştım.En kısa sürede güncellenecektir.
